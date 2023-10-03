@@ -1,0 +1,22 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:791644341a9730e8f209dfa1c26f4596:50d5994916ba51c906dc1cdf22381a1c:abc560794f4ad16eb26e7feae7ed38ad$
+#
+:format=40300
+:texture=FlexRun_Sprite_Player.png
+:size=2048x1024
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+player1;2;646;300;376; 0.5;0.5; 0;0;0;0
+player2;306;646;300;376; 0.5;0.5; 0;0;0;0
+player3;610;646;300;376; 0.5;0.5; 0;0;0;0
+player4;914;646;300;376; 0.5;0.5; 0;0;0;0
+player5;1218;646;300;376; 0.5;0.5; 0;0;0;0
+player6;1522;646;300;376; 0.5;0.5; 0;0;0;0
+player7;2;266;300;376; 0.5;0.5; 0;0;0;0
